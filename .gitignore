@@ -12,9 +12,12 @@ coverage
 .next/
 out/
 build
+dist
+apps/**/dist
 
 # misc
 .DS_Store
+.idea
 *.pem
 
 # debug
